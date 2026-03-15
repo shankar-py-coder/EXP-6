@@ -12,6 +12,7 @@ DIAGRAM:
 
 CIRCUIT DIAGRAM:
 ![image alt](https://github.com/shankar-py-coder/EXP-6/blob/main/beee%206%201st.jpeg?raw=true)
+![image alt](https://github.com/shankar-py-coder/EXP-6/blob/main/beee%206%203rd.jpeg?raw=true)
 
 PROCEDURE: -
 I. Connect the multimeter at the output of kit..
