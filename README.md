@@ -9,13 +9,13 @@ THEORY: - LVDT is basically a mutual inductance type transformer with variable c
 
 DIAGRAM:
 
-<img src="https://github.com/shankar-py-coder/EXP-6/blob/main/Screenshot%202026-03-15%20135919.png?raw=true" height="2000" width="800">
+<img src="https://github.com/shankar-py-coder/EXP-6/blob/main/Screenshot%202026-03-15%20135919.png?raw=true" height="400" width="800">
 
 CIRCUIT DIAGRAM:
 
-<img src="https://github.com/shankar-py-coder/EXP-6/blob/main/beee%206%201st.jpeg?raw=true" height="2000" width="800">
+<img src="https://github.com/shankar-py-coder/EXP-6/blob/main/beee%206%201st.jpeg?raw=true" height="400" width="800">
 
-<img src="https://github.com/shankar-py-coder/EXP-6/blob/main/beee%206%203rd.jpeg?raw=true" height="2000" width="800">
+<img src="https://github.com/shankar-py-coder/EXP-6/blob/main/beee%206%203rd.jpeg?raw=true" height="400" width="800">
 
 PROCEDURE: -
 I. Connect the multimeter at the output of kit..
@@ -27,7 +27,7 @@ I. Connect the multimeter at the output of kit..
 
 OBSERVATION TABLE:
 
-<img src="https://github.com/shankar-py-coder/EXP-6/blob/main/beee%206%202nd.jpeg?raw=true"  height="2000" width="800">
+<img src="https://github.com/shankar-py-coder/EXP-6/blob/main/beee%206%202nd.jpeg?raw=true"  height="400" width="800">
 
 PRECAUTION: -
 1. The values on the multimeter should be carefully noted.
