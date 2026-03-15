@@ -11,6 +11,7 @@ DIAGRAM:
 <img src="https://github.com/shankar-py-coder/EXP-6/blob/main/Screenshot%202026-03-15%20135919.png?raw=true" height="2000" width="800">
 
 CIRCUIT DIAGRAM:
+
 <img src="https://github.com/shankar-py-coder/EXP-6/blob/main/beee%206%201st.jpeg?raw=true" height="2000" width="800">
 
 <img src="https://github.com/shankar-py-coder/EXP-6/blob/main/beee%206%203rd.jpeg?raw=true" height="2000" width="800">
