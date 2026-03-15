@@ -23,8 +23,8 @@ I. Connect the multimeter at the output of kit..
 
 
 OBSERVATION TABLE:
-![image alt](https://github.com/shankar-py-coder/EXP-6/blob/main/beee%206%202nd.jpeg?raw=true)
-<img src="https://github.com/shankar-py-coder/EXP-6/blob/main/beee%206%202nd.jpeg?raw=true" width="400">
+
+<img src="https://github.com/shankar-py-coder/EXP-6/blob/main/beee%206%202nd.jpeg?raw=true"  height="1000" width="400">
 
 PRECAUTION: -
 1. The values on the multimeter should be carefully noted.
