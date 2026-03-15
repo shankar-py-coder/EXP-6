@@ -23,7 +23,7 @@ I. Connect the multimeter at the output of kit..
 
 
 OBSERVATION TABLE:
-![image alt](
+![image alt](https://github.com/shankar-py-coder/EXP-6/blob/main/beee%206%202nd.jpeg?raw=true)
 
 PRECAUTION: -
 1. The values on the multimeter should be carefully noted.
